@@ -28,7 +28,7 @@
   <a href="https://velog.io/@dldnwls0115/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="dldnwls0115@naver.com">
+  <a href="dldnwls0115@naver.com">
     <img
       src="https://img.shields.io/badge/dldnwls0115@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
